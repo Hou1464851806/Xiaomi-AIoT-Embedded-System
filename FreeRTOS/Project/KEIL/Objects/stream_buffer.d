@@ -1,0 +1,14 @@
+.\objects\stream_buffer.o: ..\..\Third_Party\FreeRTOS\src\stream_buffer.c
+.\objects\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\stream_buffer.o: ..\..\Third_Party\FreeRTOS\inc\FreeRTOS.h
+.\objects\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\stream_buffer.o: ..\GD32F450Z_BSP\inc\FreeRTOSConfig.h
+.\objects\stream_buffer.o: ..\..\Third_Party\FreeRTOS\inc\projdefs.h
+.\objects\stream_buffer.o: ..\..\Third_Party\FreeRTOS\inc\portable.h
+.\objects\stream_buffer.o: ..\..\Third_Party\FreeRTOS\inc\deprecated_definitions.h
+.\objects\stream_buffer.o: ..\..\Third_Party\FreeRTOS\port\portmacro.h
+.\objects\stream_buffer.o: ..\..\Third_Party\FreeRTOS\inc\mpu_wrappers.h
+.\objects\stream_buffer.o: ..\..\Third_Party\FreeRTOS\inc\task.h
+.\objects\stream_buffer.o: ..\..\Third_Party\FreeRTOS\inc\list.h
+.\objects\stream_buffer.o: ..\..\Third_Party\FreeRTOS\inc\stream_buffer.h

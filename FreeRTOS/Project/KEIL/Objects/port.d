@@ -1,0 +1,12 @@
+.\objects\port.o: ..\..\Third_Party\FreeRTOS\port\port.c
+.\objects\port.o: ..\..\Third_Party\FreeRTOS\inc\FreeRTOS.h
+.\objects\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\port.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\port.o: ..\GD32F450Z_BSP\inc\FreeRTOSConfig.h
+.\objects\port.o: ..\..\Third_Party\FreeRTOS\inc\projdefs.h
+.\objects\port.o: ..\..\Third_Party\FreeRTOS\inc\portable.h
+.\objects\port.o: ..\..\Third_Party\FreeRTOS\inc\deprecated_definitions.h
+.\objects\port.o: ..\..\Third_Party\FreeRTOS\port\portmacro.h
+.\objects\port.o: ..\..\Third_Party\FreeRTOS\inc\mpu_wrappers.h
+.\objects\port.o: ..\..\Third_Party\FreeRTOS\inc\task.h
+.\objects\port.o: ..\..\Third_Party\FreeRTOS\inc\list.h

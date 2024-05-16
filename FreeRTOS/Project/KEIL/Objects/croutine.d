@@ -1,0 +1,13 @@
+.\objects\croutine.o: ..\..\Third_Party\FreeRTOS\src\croutine.c
+.\objects\croutine.o: ..\..\Third_Party\FreeRTOS\inc\FreeRTOS.h
+.\objects\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\croutine.o: ..\GD32F450Z_BSP\inc\FreeRTOSConfig.h
+.\objects\croutine.o: ..\..\Third_Party\FreeRTOS\inc\projdefs.h
+.\objects\croutine.o: ..\..\Third_Party\FreeRTOS\inc\portable.h
+.\objects\croutine.o: ..\..\Third_Party\FreeRTOS\inc\deprecated_definitions.h
+.\objects\croutine.o: ..\..\Third_Party\FreeRTOS\port\portmacro.h
+.\objects\croutine.o: ..\..\Third_Party\FreeRTOS\inc\mpu_wrappers.h
+.\objects\croutine.o: ..\..\Third_Party\FreeRTOS\inc\task.h
+.\objects\croutine.o: ..\..\Third_Party\FreeRTOS\inc\list.h
+.\objects\croutine.o: ..\..\Third_Party\FreeRTOS\inc\croutine.h
